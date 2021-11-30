@@ -1,0 +1,3 @@
+scikit-image==0.18.3
+cython==0.29.24
+requests==2.26.0
